@@ -32,6 +32,10 @@ ul {
   margin: 0;
 }
 
+#img-ul{
+  
+}
+
 .img-li{
   height: 30vh;
   flex-grow: 1;
@@ -43,3 +47,13 @@ img {
  object-fit: cover;
  vertical-align: bottom;
 }
+
+#about-box {
+  color: white;
+  padding: 1em;
+}
+
+nav {
+  height: 5em;
+}
+
